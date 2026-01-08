@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="lg:col-span-1">
             <Link to="/" className="inline-block mb-6">
-              <img src={logo} alt="Prime Properties" className="h-16 w-auto" />
+              <img src={logo} alt="Real Estate Surkhet" className="h-16 w-auto" />
             </Link>
             <p className="text-primary-foreground/80 mb-6">
               Your trusted partner in finding the perfect property. We connect buyers 
@@ -105,7 +105,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-primary-foreground/20 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-primary-foreground/60 text-sm">
-            © {new Date().getFullYear()} Prime Properties. All rights reserved.
+            © {new Date().getFullYear()} Real Estate Surkhet. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <a href="#" className="text-primary-foreground/60 hover:text-secondary transition-colors">

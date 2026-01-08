@@ -18,7 +18,7 @@ const About = () => {
         
         <div className="relative container-main px-4 text-center">
           <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6">
-            About Prime Properties
+            About Real Estate Surkhet
           </h1>
           <p className="text-lg md:text-xl text-primary-foreground/90 max-w-3xl mx-auto">
             Your trusted partner in finding the perfect property since 2009. 
@@ -36,7 +36,7 @@ const About = () => {
             </h2>
             <div className="prose prose-lg max-w-none text-muted-foreground leading-relaxed space-y-6">
               <p>
-                Prime Properties was founded in 2009 with a simple yet powerful vision: to transform 
+                Real Estate Surkhet was founded in 2009 with a simple yet powerful vision: to transform 
                 the way people buy and sell real estate. What started as a small family business has 
                 grown into one of the most trusted names in the property market.
               </p>
@@ -47,7 +47,7 @@ const About = () => {
                 unwavering commitment to our clients' satisfaction.
               </p>
               <p>
-                Today, Prime Properties stands as a beacon of excellence in the real estate industry, 
+                Today, Real Estate Surkhet stands as a beacon of excellence in the real estate industry, 
                 offering an innovative online platform that brings buyers and sellers together in a 
                 seamless, efficient, and secure environment.
               </p>
@@ -101,7 +101,7 @@ const About = () => {
               Our Core Values
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              These principles guide everything we do at Prime Properties.
+              These principles guide everything we do at Real Estate Surkhet.
             </p>
           </div>
 

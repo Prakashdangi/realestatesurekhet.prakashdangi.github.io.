@@ -23,10 +23,10 @@ const Index = () => {
         <div className="container-main">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="font-serif text-3xl md:text-4xl font-bold text-foreground mb-6">
-              Welcome to <span className="text-secondary">Prime Properties</span>
+              Welcome to <span className="text-secondary">Real Estate Surkhet</span>
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Prime Properties is your premier destination for buying and selling real estate. 
+              Real Estate Surkhet is your premier destination for buying and selling real estate. 
               We bring together buyers and sellers in a seamless online marketplace, making property 
               transactions transparent, efficient, and rewarding. Whether you're looking for your 
               dream home, investment property, or land for development, we're here to help you 
